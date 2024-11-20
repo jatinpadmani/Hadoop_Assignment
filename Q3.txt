@@ -1,0 +1,6 @@
+Hadoop is an open-source framework
+Hadoop allows distributed processing of large data sets
+MapReduce is the processing model in Hadoop
+Hadoop is highly scalable and fault-tolerant
+Hotspot is a Java Virtual Machine (JVM)
+Hotspot helps in optimizing Java code execution

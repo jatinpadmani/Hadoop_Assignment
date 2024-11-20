@@ -1,0 +1,10 @@
+1,John,Male,30
+2,Sarah,Female,25
+3,Jane,Female,22
+4,Tom,Male,40
+5,Alice,Female,35
+6,Bob,Male,45
+7,Kate,Female,28
+8,Michael,Male,50
+9,Linda,Female,42
+10,Emma,Female,37
